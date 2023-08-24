@@ -1,0 +1,12 @@
+numpy
+streamlit
+pandas
+matplotlib
+plotly
+pywaffle
+wordcloud
+mplcursors
+sklearn
+tensorflow_hub
+tensorflow
+gensim
