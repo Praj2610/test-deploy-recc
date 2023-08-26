@@ -10,3 +10,4 @@ scikit-learn
 tensorflow_hub
 tensorflow
 gensim
+boto3
